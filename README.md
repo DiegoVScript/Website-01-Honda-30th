@@ -1,8 +1,10 @@
-# React + Vite
+# Website Honda 30th Info
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Website Honda sim](https://website-01-honda-30th.netlify.app/)
 
-Currently, two official plugins are available:
+![girl](https://openseauserdata.com/files/d0d70ea1a1f191090f11d8de8c466402.gif)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+**(it is only a small part of what a honda site can be).** ৻(  •̀ ᗜ •́  ৻)
+
+design
